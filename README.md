@@ -5,28 +5,18 @@ This repository contains an interactive Tableau dashboard that provides insights
 
 Key Features:
 Sales Performance:
-Visualizes sales trends over time (daily, weekly, monthly, yearly).
-Identifies top-selling products and categories.
-Analyzes regional sales performance using interactive maps.
+Visualizes sales trends over time (daily, weekly, monthly, yearly). Identifies top-selling products and categories. Analyzes regional sales performance using interactive maps.
 Customer Analysis:
-Segments customers based on purchase history and demographics.
-Tracks customer lifetime value and identifies high-value customers.
+Segments customers based on purchase history and demographics. Tracks customer lifetime value and identifies high-value customers.
 Product Performance:
-Analyzes product profitability and identifies slow-moving products.
-Visualizes product sales by category and sub-category.
-Technologies Used:
+Analyzes product profitability and identifies slow-moving products. Visualizes product sales by category and sub-category.
 
-Tableau Desktop
-Superstore Dataset (Kaggle)
+Technologies Used: TABLEAU PUBLIC
 
 Key Learnings:
-Data cleaning and preparation techniques in Tableau.
-Creating interactive dashboards with filters, parameters, and calculated fields.
-Data storytelling and visualization best practices.
-Analyzing and interpreting data to derive meaningful insights.
-To Explore:
+Data cleaning and preparation techniques in Tableau. Creating interactive dashboards with filters, parameters, and calculated fields. Data storytelling and visualization best practices. Analyzing and interpreting data to derive meaningful insights.
 
-Download the Tableau workbook (.twb) file.
-Install Tableau Public or Tableau Desktop (for viewing and interacting with the dashboard).
-Open the workbook and explore the interactive visualizations.
+To Explore:
+Download the Tableau workbook (https://public.tableau.com/views/ECOMMERECESALESDASHBOARD/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) file.
+
 This project demonstrates my skills in data visualization, data analysis, and storytelling using Tableau. It provides a valuable addition to my portfolio and showcases my ability to extract meaningful insights from complex data.
